@@ -1,9 +1,11 @@
 ### Hey there! 👋
 
 # Welcome to my repo!
-I'm Hiago, currently living in Brazil, born back in 1995. <br>
-I mostly like `React` `TypeScript` `Back-end` `Front-end` & `Mobile`. 
-
+This is Hiago, and I'm currently living in Brazil after being born back in 1995. <br>
+I'm mostly drawn to `React` & `TypeScript`.<br>
+I enjoy coding for `Front-end` & `Mobile`.<br>
+And I'm also studing `NodeJS`. <br>
+In a few years from now I hope to be dealing with `AI`.
 
 <div>
   <a href="https://www.linkedin.com/in/hiago-patrick-aires-203580145/?originalSubdomain=br" target="_blank"> 
@@ -23,9 +25,9 @@ I mostly like `React` `TypeScript` `Back-end` `Front-end` & `Mobile`.
 </div>
 
 
-- 🔭 I’m currently working as a `typesetter` for `Power Financials`
-- 🌱 I’m currently learning `React (JS and Native)` `NodeJS` and `Sqlite` ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: `github` `email` or `linkedIn`
-- 😄 Pronouns: `He` \ `Him`
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a `typesetter` for `Power Financials`.
+- 🌱 I’m currently learning `React (JS and Native)` `NodeJS` and `Sqlite`.
+- 🤔 I’m looking for help with `Sqlite` and `NodeJS`.
+- 📫 How to reach me: `github` `email` or `linkedIn`.
+- 😄 Pronouns: `He` \ `Him` \ `Witch`.
+- ⚡ Fun fact: I talk to `mirrors` `herbs` and `stones`. Sometimes they talk back.
